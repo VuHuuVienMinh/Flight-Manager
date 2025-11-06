@@ -7,6 +7,11 @@
 
 
 class Ticket {
+    string m_strTicketID;
+    string m_strFlightID;
+    string m_strCustomerID;
+    string m_strCustomerName;
+    int m_iSeatNumber;
 };
 
 
